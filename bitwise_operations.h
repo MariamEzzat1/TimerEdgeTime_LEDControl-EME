@@ -1,9 +1,4 @@
-/*
- * bitwise_operations.h
- *
- *  Created on: Aug 13, 2023
- *      Author: Lenovo
- */
+
 
 #ifndef BITWISE_OPERATIONS_H_
 #define BITWISE_OPERATIONS_H_
