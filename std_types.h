@@ -4,9 +4,6 @@
  *
  * File Name: std_types.h
  *
- * Description: types for AVR
- *
-
  *******************************************************************************/
 
 #ifndef STD_TYPES_H_
