@@ -1,0 +1,658 @@
+Description	Resource	Path	Location	Type
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled	.ccsproject	/LedControl	line 74, external location: C:\ti\ccs1230\ccs\tools\compiler\ti-cgt-arm_20.2.7.LTS\include\machine\_types.h	C/C++ Problem
+#1376-D (MISRA-C:2004 1.1/R) Ensure strict ANSI C mode (-ps) is enabled	std_types.h	/LedControl	line 13	C/C++ Problem
+#1377-D (MISRA-C:2004 2.1/R) Assembly language shall be encapsulated and isolated (function "ResetISR")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 238	C/C++ Problem
+#1383-D (MISRA-C:2004 8.1/R) Functions shall have prototype declarations and the prototype shall be visible at both the function definition and call	main.c	/LedControl	line 4	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 8	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 17	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 18	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 21	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 22	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 25	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 26	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 39	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 43	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 51	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 55	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 56	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 59	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 63	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 64	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 67	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 71	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 72	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 75	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 79	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 80	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 83	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 150	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 152	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 154	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 156	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 158	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 160	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 170	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 180	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 190	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 200	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 210	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	DIO.c	/LedControl	line 220	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 24	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 39	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 43	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 44	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 50	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 51	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	rgb_app.c	/LedControl	line 52	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 22	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 25	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 27	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 29	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 31	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 36	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 55	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 56	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 61	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 62	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 63	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 67	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 68	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 69	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 73	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if it is not a conversion to a wider integer type of the same signedness	timer_captureTime.c	/LedControl	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 7	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 41	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 44	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 49	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 52	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 60	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 65	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 68	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 73	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 76	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 81	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 84	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 150	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 152	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 154	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 156	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 158	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 160	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 170	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 171	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 172	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 174	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 175	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 177	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 223	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 212	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 202	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 192	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 182	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 172	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 229	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 228	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 60	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 57	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 52	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 49	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 44	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 41	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 65	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 26	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 22	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 18	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 8	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 68	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 7	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	DIO.c	/LedControl	line 168	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 229	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 228	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 226	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 225	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 73	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 223	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 222	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 218	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 217	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 76	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 215	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 214	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 212	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 211	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 208	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 207	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 81	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 205	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 204	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 202	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 201	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 84	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 198	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 197	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 195	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 194	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 43	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 51	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 59	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 67	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 75	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	DIO.c	/LedControl	line 83	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	DIO.c	/LedControl	line 37	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 192	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 150	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 191	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 188	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 187	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 185	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 152	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 184	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 182	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 181	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 178	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 154	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 177	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 175	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 174	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 172	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 156	C/C++ Problem
+#1470-D (MISRA-C:2004 14.9/R) An if (expression) construct shall be followed by a compound statement. The else keyword shall be followed by either a compound statement, or another if statement	DIO.c	/LedControl	line 171	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 229	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 228	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 226	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 158	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 156	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 158	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 154	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 152	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 160	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 150	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 160	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 84	C/C++ Problem
+#1471-D (MISRA-C:2004 15.3/R) The final clause of a switch statement shall be the default clause	DIO.c	/LedControl	line 148	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 81	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 170	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 76	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 170	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 73	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 171	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 68	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 171	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 65	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 60	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 172	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 57	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 172	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 52	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 174	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 49	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 174	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 44	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 175	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 41	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 175	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 8	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 7	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 177	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 229	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 177	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 228	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 178	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 178	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 178	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 177	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 175	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 174	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 181	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 181	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 181	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 172	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 171	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 182	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 182	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 182	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 170	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 184	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 184	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 184	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 160	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 185	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 185	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 185	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 158	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 156	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 187	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 187	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 187	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 154	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 188	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 188	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 188	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 152	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 150	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 84	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 190	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 190	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 190	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 81	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 191	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 191	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 191	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 76	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 73	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 192	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 192	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 192	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 68	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 194	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 194	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 194	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 65	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 195	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 195	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 195	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 60	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 57	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 197	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 197	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 197	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 52	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 198	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 198	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 198	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 49	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 44	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 41	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 200	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 200	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 200	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 26	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 201	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 201	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 201	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 22	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 18	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 202	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 202	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 202	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 8	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 204	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 204	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 204	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 7	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 205	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 205	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 205	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 229	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 226	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 207	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 207	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 207	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 205	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 208	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 208	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 208	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 201	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 208	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 198	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 210	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 210	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 210	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 195	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 211	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 211	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 211	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 191	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 211	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 212	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 212	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 212	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 188	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 214	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 214	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 214	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 185	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 215	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 215	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 215	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 181	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 215	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 217	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 217	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 217	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 178	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 218	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 218	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 218	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 175	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 218	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 171	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 220	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 220	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 220	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 84	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 222	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 222	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 222	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 76	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 222	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 223	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 223	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 223	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 68	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 225	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 225	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	DIO.c	/LedControl	line 225	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 60	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	DIO.c	/LedControl	line 226	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	DIO.c	/LedControl	line 226	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operations.h	/LedControl	line 13	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operations.h	/LedControl	line 14	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operations.h	/LedControl	line 11	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	bitwise_operations.h	/LedControl	line 12	C/C++ Problem
+#1428-D (MISRA-C:2004 19.7/A) A function should be used in preference to a function-like macro	hw_gpio.h	/LedControl	line 701	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	main.c	/LedControl	line 4	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 52	C/C++ Problem
+#1397-D (MISRA-C:2004 10.5/R) If the bitwise operators ~ and << are applied to an operand of underlying type unsigned char or unsigned short, the result shall be immediately cast to the underlying type of the operand	DIO.c	/LedControl	line 44	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 22	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 22	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 22	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	main.c	/LedControl	line 6	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 23	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 23	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 23	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	rgb_app.c	/LedControl	line 23	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 24	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 24	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 24	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	rgb_app.c	/LedControl	line 22	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	rgb_app.c	/LedControl	line 36	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 38	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 38	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 229	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 39	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 39	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 39	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 228	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 40	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 40	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 226	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 42	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 42	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 42	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 225	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 43	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 43	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 43	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 223	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 44	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 44	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 44	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 222	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 46	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 46	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 46	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 220	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 47	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 47	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 47	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 218	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 48	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 48	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 48	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 217	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 50	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 50	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 50	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 215	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 51	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 51	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 51	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 214	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	rgb_app.c	/LedControl	line 52	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	rgb_app.c	/LedControl	line 52	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	rgb_app.c	/LedControl	line 52	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 212	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 211	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 69	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 69	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 210	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 72	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 72	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	timer_captureTime.c	/LedControl	line 72	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 73	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 73	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 73	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 208	C/C++ Problem
+#1501-D (MISRA-C:2004 14.10/R) All if ... else if constructs shall be terminated with an else clause	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 85	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 207	C/C++ Problem
+#1394-D (MISRA-C:2004 10.2/R) The value of an expression of floating type shall not be implicitly converted to a different type if the expression is a return expression	timer_captureTime.c	/LedControl	line 85	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 22	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 22	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 22	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 205	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 25	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 25	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 25	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 204	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 27	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 27	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 27	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 202	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 29	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 29	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 29	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 201	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 31	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 31	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 31	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 200	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 32	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 32	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 32	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 198	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 34	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 34	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	timer_captureTime.c	/LedControl	line 34	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 36	C/C++ Problem
+#1464-D (MISRA-C:2004 10.6/R) A "U" suffix shall be applied to all constants of unsigned type	timer_captureTime.c	/LedControl	line 36	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 36	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 36	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 197	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 38	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 38	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 38	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 195	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 40	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 40	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 40	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 194	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1404-D (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	timer_captureTime.c	/LedControl	line 53	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 55	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 55	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 55	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 192	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 56	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 56	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 56	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 191	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 57	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 57	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 57	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 190	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1404-D (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	timer_captureTime.c	/LedControl	line 59	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 61	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 61	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 61	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 188	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 62	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 62	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 62	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 187	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 63	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 63	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 63	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 185	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is not constant and is a function argument	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 184	C/C++ Problem
+#1404-D (MISRA-C:2004 12.4/R) The right-hand operand of a logical && or || operator shall not contain side effects	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1405-D (MISRA-C:2004 12.5/R) The operands of a logical && or || shall be primary-expressions	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1459-D (MISRA-C:2004 12.1/A) Limited dependence should be placed on C's operator precedence rules in expressions	timer_captureTime.c	/LedControl	line 65	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 67	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 67	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 67	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 182	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 68	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	timer_captureTime.c	/LedControl	line 68	C/C++ Problem
+#1406-D (MISRA-C:2004 12.7/R) Bitwise operators shall not be applied to operands whose underlying type is signed	timer_captureTime.c	/LedControl	line 68	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 181	C/C++ Problem
+#1498-D (MISRA-C:2004 6.3/A) typedefs that indicate size and signedness should be used in place of the basic numerical types	timer_captureTime.c	/LedControl	line 69	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 126	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 129	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 130	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 131	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 132	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 133	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 134	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 135	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 136	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 137	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 140	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 141	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 142	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 143	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 144	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 145	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 146	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 147	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 148	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 149	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 154	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 155	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 156	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 157	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 178	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 179	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 180	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 181	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 182	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 183	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 184	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 185	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 186	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 187	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 188	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 189	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 190	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 191	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 192	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 195	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 196	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 197	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 198	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 199	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 202	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 203	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 204	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 205	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 206	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 207	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 208	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 209	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 210	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 211	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 212	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 213	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 214	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 215	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 216	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 217	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 218	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 219	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 220	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 221	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 222	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 223	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 224	C/C++ Problem
+#1393-D (MISRA-C:2004 10.1/R) The value of an expression of integer type shall not be implicitly converted to a different underlying type if the expression is complex	DIO.c	/LedControl	line 178	C/C++ Problem
+#1400-D (MISRA-C:2004 11.3/A) A cast should not be performed between a pointer type and an integral type	tm4c123gh6pm_startup_ccs.c	/LedControl	line 69	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "ResetISR")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 71	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "NmiSR")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 72	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "FaultISR")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 73	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 74	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 75	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 76	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 81	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 82	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 84	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 85	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 86	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 87	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 88	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 89	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 90	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 91	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 92	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 93	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 94	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 95	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 96	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 97	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 98	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 99	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 100	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 101	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 102	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 103	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 104	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 105	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 106	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 107	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 108	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 109	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 110	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 111	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 112	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 113	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 114	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 115	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 116	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 117	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 118	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 119	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 120	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 121	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 122	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 123	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 124	C/C++ Problem
+#1422-D (MISRA-C:2004 16.9/R) A function identifier shall only be used with either a preceding &, or with a parenthesised parameter list, which may be empty (function "IntDefaultHandler")	tm4c123gh6pm_startup_ccs.c	/LedControl	line 125	C/C++ Problem
