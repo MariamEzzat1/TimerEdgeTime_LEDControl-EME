@@ -3,10 +3,10 @@
 #define TIMER_CAPTURETIME_H_
 #include "DIO.h"
 
-#define TIMER2              2
-#define TAEN_bit            0
-#define TAEVENT_bit1        2
-#define TAEVENT_bit2        3
+#define TIMER2              2U
+#define TAEN_bit            0U
+#define TAEVENT_bit1        2U
+#define TAEVENT_bit2        3U
 
 void wtimer2Handler(void);
 void wtimer2_Init(void);
