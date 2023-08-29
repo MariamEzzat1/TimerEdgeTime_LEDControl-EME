@@ -24,18 +24,18 @@ void wtimer2_Init(void)
 
     Clear_Bit(WTIMER2_CTL_R,TAEN_bit);                  /*disable the timer*/
 
-    WTIMER2_CFG_R |= 0x4;                               /* using 32 bit wide mode (timer A)*/
+    WTIMER2_CFG_R |= (uint8)0x4;                               /* using 32 bit wide mode (timer A)*/
 
-    WTIMER2_TAMR_R |= 0x7;                              /*setting mode to ip edge time, setting direction to count down*/
+    WTIMER2_TAMR_R |= (uint8)0x7;                              /*setting mode to ip edge time, setting direction to count down*/
 
     Clear_Bit(WTIMER2_CTL_R,TAEVENT_bit1);              /* event edge is set to falling edge*/
     Clear_Bit(WTIMER2_CTL_R,TAEVENT_bit1);
 
-    WTIMER2_TAILR_R = seconds_to_ticks(15);             /*setting start value to 15 --> 15/62.5ns = 240000000 ticks*/
+    WTIMER2_TAILR_R = seconds_to_ticks(15U);             /*setting start value to 15 --> 15/62.5ns = 240000000 ticks*/
 
-    Set_Bit(NVIC_EN3_R,2);                              /*Enabling the global interrupts*/
+    Set_Bit(NVIC_EN3_R,2U);                              /*Enabling the global interrupts*/
 
-    Set_Bit(WTIMER2_IMR_R,2);                           /*Enabling timer interrupt*/
+    Set_Bit(WTIMER2_IMR_R,2U);                           /*Enabling timer interrupt*/
 
     Set_Bit(WTIMER2_CTL_R,TAEN_bit);                    /*enable the timer*/
 
@@ -50,27 +50,28 @@ void wtimer2_Init(void)
 ****************************************************************************************************/
 void wtimer2Handler(void)
 {
-    if(WTIMER2_TAR_R<= seconds_to_ticks(15) && WTIMER2_TAR_R> seconds_to_ticks(10))     /*From 0 and  below 5 seconds*/
+    if((WTIMER2_TAR_R<= seconds_to_ticks(15U)) && ( WTIMER2_TAR_R> seconds_to_ticks(10U)))     /*From 0 and  below 5 seconds*/
     {
         Set_Bit(GPIO_PORTF_DATA_R,RED_LED);          /*RED LED ON*/
         Clear_Bit(GPIO_PORTF_DATA_R,BLUE_LED);
         Clear_Bit(GPIO_PORTF_DATA_R,GREEN_LED);
     }
-    else if(WTIMER2_TAR_R<= seconds_to_ticks(10) && WTIMER2_TAR_R> seconds_to_ticks(5)) /*From 5 and below  10 seconds*/
+    else if((WTIMER2_TAR_R<= seconds_to_ticks(10)) && (WTIMER2_TAR_R> seconds_to_ticks(5U))) /*From 5 and below  10 seconds*/
     {
         Set_Bit(GPIO_PORTF_DATA_R,BLUE_LED);   /*BLUE LED ON*/
         Clear_Bit(GPIO_PORTF_DATA_R,RED_LED);
         Clear_Bit(GPIO_PORTF_DATA_R,GREEN_LED);
     }
-    else if(WTIMER2_TAR_R<= seconds_to_ticks(5) && WTIMER2_TAR_R > 0)                   /*From 10 and below  15 seconds*/
+    else if((WTIMER2_TAR_R<= seconds_to_ticks(5U) )&& (WTIMER2_TAR_R > 0U))                   /*From 10 and below  15 seconds*/
     {
         Set_Bit(GPIO_PORTF_DATA_R,GREEN_LED);   /*GREEN LED ON*/
         Clear_Bit(GPIO_PORTF_DATA_R,RED_LED);
         Clear_Bit(GPIO_PORTF_DATA_R,BLUE_LED);
     }
+    else{}
 
-    WTIMER2_TAILR_R = seconds_to_ticks(15);       /*set the load value back to its initial value*/
-    Set_Bit(WTIMER2_ICR_R,2);                     /*clearing the module interrupt flag*/
+    WTIMER2_TAILR_R = seconds_to_ticks(15U);       /*set the load value back to its initial value*/
+    Set_Bit(WTIMER2_ICR_R,2U);                     /*clearing the module interrupt flag*/
 }
 
 /***************************************************************************************************
@@ -82,5 +83,5 @@ void wtimer2Handler(void)
 ****************************************************************************************************/
 uint32 seconds_to_ticks(uint8 seconds_num)
 {
-    return (seconds_num/ ((float)1/Fcpu));
+    return (uint32)(seconds_num/ ((float64)1U/Fcpu));
 }
